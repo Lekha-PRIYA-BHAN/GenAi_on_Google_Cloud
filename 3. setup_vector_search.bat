@@ -1,0 +1,3 @@
+call python generate_openai_embeddings.py
+call python load_to_cloud_storage.py
+call python prepare_vector_search.py

@@ -1,0 +1,8 @@
+tensorflow
+google-cloud-aiplatform
+tensorflow_hub
+#tensorflow_text
+openai
+python-dotenv
+oauth2client
+vectorai
